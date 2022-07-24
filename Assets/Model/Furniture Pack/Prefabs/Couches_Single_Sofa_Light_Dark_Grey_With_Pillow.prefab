@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7811626962957971676
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7811626962957971679}
+  m_Layer: 0
+  m_Name: Couches_Single_Sofa_Light_Dark_Grey_With_Pillow
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7811626962957971679
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7811626962957971676}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7811626963270325029}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &3616890923119217039
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7811626963269897989}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.010823979, y: 0.008004805, z: 0.00513544}
+  m_Center: {x: -0.000010926723, y: 0.000054944492, z: 0.002567732}
+--- !u!65 &785538177646242041
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7811626963269897989}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.010823979, y: 0.0021196546, z: 0.00983956}
+  m_Center: {x: -0.000010926723, y: 0.002997519, z: 0.0049197855}
+--- !u!65 &4082653337038659199
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7811626963269897989}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0014077448, y: 0.008004805, z: 0.009251041}
+  m_Center: {x: 0.004697187, y: 0.000054944492, z: 0.0046255267}
+--- !u!65 &8884639900229873690
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7811626963269897989}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0011134893, y: 0.008004805, z: 0.009545301}
+  m_Center: {x: -0.004866171, y: 0.00005494449, z: 0.0047726557}
+--- !u!1001 &7811626963269929381
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7811626962957971679}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_Name
+      value: Couches_Single_Sofa_Light_Dark_Grey_With_Pillow
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 99.99994
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 99.99994
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 99fcf18d8895b3b418b749f311c0288e, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 79a47bfe5c8040a4faad24621c6d18ca, type: 3}
+--- !u!1 &7811626963269897989 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 79a47bfe5c8040a4faad24621c6d18ca,
+    type: 3}
+  m_PrefabInstance: {fileID: 7811626963269929381}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7811626963270325029 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 79a47bfe5c8040a4faad24621c6d18ca,
+    type: 3}
+  m_PrefabInstance: {fileID: 7811626963269929381}
+  m_PrefabAsset: {fileID: 0}
